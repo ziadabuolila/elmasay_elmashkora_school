@@ -196,7 +196,6 @@ svg:not(:root).svg-inline--fa {
     right: 0px;
 }
 .profile {
-    margin: 50px 0;
     text-align: center;
 }
 .img-box {
@@ -207,7 +206,7 @@ svg:not(:root).svg-inline--fa {
     border-radius: 40px;
 }
 .profile > h2 {
-    font-size: x-large;
+    font-size: large;
 }
 .menu ul li > a{
     padding: 8px 0;
