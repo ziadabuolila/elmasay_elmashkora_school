@@ -259,3 +259,17 @@ h2{
         right: -880px;
     }
 }
+.containar-filud > .sec{
+    flex-wrap: wrap;
+    gap: 10px 20px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.containar-filud > .sec > .table-box{
+    width: 250px;
+    text-align: center;
+    background: radial-gradient(#000, #ff0000, yellow);
+    padding: 10px;
+    color: #fff;
+}
