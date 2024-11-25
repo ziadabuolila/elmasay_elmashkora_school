@@ -230,6 +230,7 @@ h2{
     padding: 10px;
     font-size: large;
     font-weight: bold;
+    position: relative;
 }
 #text{
     text-align: center;
