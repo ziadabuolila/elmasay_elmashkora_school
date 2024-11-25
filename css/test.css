@@ -228,6 +228,8 @@ h2{
 .text{
     background-color: cadetblue;
     padding: 10px;
+    font-size: large;
+    font-weight: bold;
 }
 #text{
     text-align: center;
